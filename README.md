@@ -1,4 +1,4 @@
-# TextDoe : Thai document domain classification model  based on WangchanBERTa
+# TextDoe : Thai document domain classification model  based on WangchanBERTa 📔🔍
 
 This project is supported by [AI Builder](https://ai-builders.github.io/) program
 the purpose is to classify  thai document with different 8 domains
