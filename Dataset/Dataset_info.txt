@@ -1,0 +1,43 @@
+------------------------------------------------------------
+[Data Source]
+
+Platform           : TNC:Thai National Corpus
+Organization       : Chulalongkorn University
+Access             : https://www.arts.chula.ac.th/ling/tnc/
+------------------------------------------------------------
+[Data volume]
+
+total              : 40000 articles 
+each domain        : 5000 article
+Number of domain   : 8 
+------------------------------------------------------------
+[After cleaning]
+
+remaining          : 30000 articles
+each domain        : 4500 articles
+------------------------------------------------------------
+[Split Dataset] 
+
+train 70%          : 25200 articles
+validation 15%     : 5400 articles
+test 15%           : 5400 articles
+------------------------------------------------------------
+[File Datials]
+
+TNC_Dataset_Public.zip          (21.3 MB)
+|
+|------TNC_TrainSet.csv         (128 MB)
+|
+|------TNC_ValidationSet.csv    (26.7 MB)
+|
+|------TNC_TestSet.csv          (26.0 MB)
+|
+|------Dataset_info.txt         (993 bytes)
+------------------------------------------------------------
+
+
+
+
+
+
+
