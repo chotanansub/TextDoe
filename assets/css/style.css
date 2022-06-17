@@ -1,0 +1,37 @@
+*{
+    font-family: 'Kanit', sans-serif !important;
+}
+
+
+
+
+.stTextArea{
+    height: auto;
+    
+}
+
+div[class="css-keje6w e1tzin5v2"]{
+    column-gap: 100px;
+}
+
+h2{
+    color: #5ba56e;
+}
+
+h3{
+    color:#007a7a;
+}
+
+label[class="css-16huue1 effi0qh3"]{
+    
+    font-size: 16px;
+}
+
+p{
+    color:#78701d;
+    font-size: 16px;
+}
+
+textarea{
+    color:#007a7a;
+}
