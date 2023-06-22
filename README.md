@@ -1,21 +1,25 @@
-# TextDoe : Thai document domain classification model  based on WangchanBERTa 📔🔍
+# 🔍📚 TextDoe: Thai Document Domain Classification Model Based on WangchanBERTa
 
-This project is supported by [AI Builder](https://ai-builders.github.io/) program
-the purpose is to classify  thai document with different 8 domains
-includeing with
-* 🔮 Imaginative  
-* 🌱 Natural & Pure Science 
-* 🔬 Applied Science 
-* 📚 Social Science 
-* 🔎 History 
-* 💵 Commerce & Finance 
-* 🖌️ Arts
-* 🙏 Belief & Thought🏼 
+This project is proudly supported by the [AI Builder](https://ai-builders.github.io/) program. The main objective is to classify Thai documents into eight different domains, including:
 
-Data info:
+- 🔮 Imaginative
+- 🌱 Natural & Pure Science
+- 🔬 Applied Science
+- 📚 Social Science
+- 🔎 History
+- 💵 Commerce & Finance
+- 🖌️ Arts
+- 🙏 Belief & Thought
 
-| Split    | Proportion (%) | volumn |
-| ---------|:--------------:| ------:|
-| Train    | 70%            | 25200  |
-| Validate | 15%            | 5400   |
-| test     | 15%            | 5400   |
+
+---
+
+## Data Information
+
+| Split    | Proportion (%) | Volume |
+| -------- | :------------: | ------ |
+| Train    |      70%       | 25,200 |
+| Validate |      15%       | 5,400  |
+| Test     |      15%       | 5,400  |
+
+Feel free to explore this exciting project!
