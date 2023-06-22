@@ -14,7 +14,10 @@ This project is proudly supported by the [AI Builder](https://ai-builders.github
 
 ---
 
-## Data Information
+## 🗂️ Data Information
+
+- Source: [TNC:Thai National Corpus](https://www.arts.chula.ac.th/ling/tnc/)
+- Organization: Department of Linguistics, Faculty of Arts, Chulalongkorn University
 
 | Split    | Proportion (%) | Volume |
 | -------- | :------------: | ------ |
@@ -22,4 +25,3 @@ This project is proudly supported by the [AI Builder](https://ai-builders.github
 | Validate |      15%       | 5,400  |
 | Test     |      15%       | 5,400  |
 
-Feel free to explore this exciting project!
