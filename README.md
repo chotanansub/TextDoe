@@ -1,4 +1,4 @@
-# 🔍📚 TextDoe: Thai Document Domain Classification Model Based on Bow, LSTM, Roberta-Base
+# 🔍📚 TextDoe: Thai Document Domain Classification Model Based on Bow, LSTM, Pre-trained Roberta-Base
 This project is supported by the [AI Builder](https://ai-builders.github.io/) program. The main objective is to classify Thai documents into eight different domains, including:
 
 - 🔮 Imaginative
